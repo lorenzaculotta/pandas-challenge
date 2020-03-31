@@ -1,0 +1,9 @@
+Lorenza Culotta
+
+Academy of Py - Final Report
+
+Given the provided data on district-wide standardized test results, we can draw the following conclusions about school performance:
+1.	Charter schools have higher passing rate of math and reading tests.
+2.	Large school size (>2500 students) is correlated to lower tests passing rate. Students in medium and small sized schools have similar performance.
+3.	Higher budget per student is correlated to poorer performances in math and reading tests.
+4.	Math and reading scores are similar between the analyzed grades (9th, 10th, 11th, 12th).
